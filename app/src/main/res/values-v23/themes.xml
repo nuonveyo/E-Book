@@ -1,0 +1,9 @@
+<resources>
+
+    <style name="BrandedLaunch" parent="Theme.Ebook">
+        <item name="android:windowBackground">@drawable/splash_screen_bg</item>
+        <item name="android:statusBarColor">@color/white</item>
+<!--        <item name="android:windowLightStatusBar">true</item>-->
+    </style>
+
+</resources>
