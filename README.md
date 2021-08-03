@@ -9,7 +9,7 @@ The application was used MVVM Pattern the is a comment useful for developer easy
 
 ![alt text](MVVM-Architecture.png)
 
-As we can see a repository which handles the request/response the data from API or Local Database. It is a comment usage from many developers to handle business logic, it is worked closely to data access layer that is more clearly and separately to make developer easier manages a source code. Sometime we can handle a logic to operate the data between API and local database together before response to viewmodel.
+As we can see one a picture above, there is a repository which handles the request/response the data from API or Local Database. It is a comment usage from many developers to handle business logic, it is worked closely to data access layer that is more clearly and separately to make developer easier manages a source code. Sometime we can handle a logic to operate the data between API and local database together before response to viewmodel.
 
 # Project Structure
 - di: contains any class for dependency injection such as ui module(activity/fragment), network module(Api Service/Repository/ViewModel).
